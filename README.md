@@ -1,4 +1,4 @@
-# Euro_2021_Countries
+# Euro_2021_Player_Stats_Analysis
 
 ---
 
