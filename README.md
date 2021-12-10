@@ -14,7 +14,7 @@
  ---
  
  # Steps:
- - Data was scraped from wikipedida
+ - Data was scraped from wikipedia
  - Data was cleaned and formatted 
  - Questions were answered through data wrangling and visualization using barcharts and boxplots
  
