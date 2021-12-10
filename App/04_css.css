@@ -1,0 +1,74 @@
+
+
+/* Navbar*/
+.navbar-inverse {
+    background-color: #0d5f6c;
+    border-color: #fff;
+}
+
+/* Sidebar*/
+.section.sidebar {
+    background-color: #99cccc;
+}
+
+pre {
+    display: block;
+    font-size: 14px;
+    line-height: 1.42857;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    color: rgb(51, 51, 51);
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+    margin: 0px 0px 10.5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(245, 245, 245);
+    border-image: initial;
+    border-radius: 0px;
+}
+
+/* Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500;600&display=swap');
+
+.navbar-brand {
+    font-family: "Teko", Sans-Serif;
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 600;
+    line-height: 1.1;
+    color: 000000;
+}
+
+body {
+    font-family: "Teko", Sans-Serif;
+    font-weight: 500;
+    color: 000000;
+}
+
+.chart-title {
+    font-family: "Teko", Sans-Serif;
+    font-weight: 700;
+    color: 000000;
+}
+
+
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
+/* Sidebar*/
