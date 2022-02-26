@@ -18,6 +18,6 @@
  - Data was cleaned and formatted 
  - Questions were answered through data wrangling and visualization using barcharts and boxplots
  
- See .md file for full article. 
+ See .Rmd file for full article. 
  
  
