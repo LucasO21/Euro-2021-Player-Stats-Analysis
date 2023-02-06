@@ -18,6 +18,6 @@
  - Data was cleaned and formatted 
  - Questions were answered through data wrangling and visualization using bar charts and boxplots
  
-See full article [here](https://lucasoblog.netlify.app/#projects).
+See full article [here](https://rpubs.com/LucasO/783478).
  
  
